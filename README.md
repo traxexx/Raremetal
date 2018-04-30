@@ -1,3 +1,8 @@
+**Please note: Development has moved to a new official home
+See: [https://github.com/statgen/raremetal](https://github.com/statgen/raremetal)**
+
+
+
 Raremetal: A tool for rare variants meta-analysis
 
 (c) 2012-2017 Shuang Feng, Dajiang Liu, Sai Chen, Gonçalo Abecasis
